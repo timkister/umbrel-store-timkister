@@ -29,9 +29,9 @@ description: >-
   Simple interface and powerful controls at your fingertips.
 developer: Duplicati
 website: https://duplicati.com/
-submitter: Sharknoon
-submission: https://github.com/getumbrel/umbrel-apps/pull/1179
-repo: https://github.com/duplicati/duplicati
+submitter: timkister
+submission: https://github.com/timkister/umbrel-store-timkister
+repo: https://github.com/timkister/umbrel-store-timkister
 support: https://forum.duplicati.com/
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
